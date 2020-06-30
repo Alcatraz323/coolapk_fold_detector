@@ -75,6 +75,6 @@ class RelatedRows {
     var commentStatusText: String? = null
     var target_id: String? = null
     var votescore: String? = null
-    var rating_star = 0
+    var rating_star: String? = null
     var changelog: String? = null
 }
